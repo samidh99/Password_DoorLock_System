@@ -1,0 +1,19 @@
+Dependencies for Project 'Blinky', Target 'LPC2378 Flash': (DO NOT MODIFY !)
+F (.\LPC2300.s)(0x532C1530)(--cpu ARM7TDMI -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips--list .\flash\lpc2300.lst --xref -o .\flash\lpc2300.o --depend .\flash\lpc2300.d)
+F (.\Retarget.c)(0x532C1530)(-c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\flash\retarget.o --depend .\flash\retarget.d)
+I (C:\Keil4\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (C:\Keil4\ARM\ARMCC\include\rt_misc.h)(0x51C7E87C)
+F (.\Serial.c)(0x532C1530)(-c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\flash\serial.o --depend .\flash\serial.d)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.H)(0x532C1500)
+F (.\Blinky.c)(0x5DD3E4CE)(-c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\flash\blinky.o --depend .\flash\blinky.d)
+I (C:\Keil4\ARM\ARMCC\include\stdio.h)(0x51C7E87C)
+I (C:\Keil4\ARM\ARMCC\include\stdbool.h)(0x51C7E87C)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.H)(0x532C1500)
+I (LCD.h)(0x532C1530)
+I (type.h)(0x532C1530)
+I (demo.h)(0x532C1530)
+F (.\LCD_4bit.c)(0x532C1530)(-c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\flash\lcd_4bit.o --depend .\flash\lcd_4bit.d)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.H)(0x532C1500)
+F (.\IRQ.c)(0x5DD3D13F)(-c --cpu ARM7TDMI -D__MICROLIB -g -O0 --apcs=interwork -I C:\Keil4\ARM\RV31\INC-I C:\Keil4\ARM\CMSIS\Include-I C:\Keil4\ARM\Inc\Philips-o .\flash\irq.o --depend .\flash\irq.d)
+I (C:\Keil4\ARM\Inc\Philips\LPC23xx.H)(0x532C1500)
+F (.\Abstract.txt)(0x532C1530)()
