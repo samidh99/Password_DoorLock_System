@@ -4,8 +4,6 @@ This repository is a project file that can be imported into Keil uvision.
 
 The functional code is contained in Blinky.c (Language: Embedded C)
 
-Functionality:
-* The user enters a password using a keypad. 
-* If there is a match, then the door unlocks. 
-* An option is provided to the user to lock the door after the door is shut.
+* The user enters a password using a keypad.
 * A servo motor is being used to control the mechanical movements of the practical door latch.
+* Real-world functions like ringing a buzzer on a certain number of unsuccesful attempts, password updation options have been provided.
