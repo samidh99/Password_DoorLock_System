@@ -6,4 +6,4 @@ The functional code is contained in Blinky.c (Language: Embedded C)
 
 * The user enters a password using a keypad.
 * A servo motor is being used to control the mechanical movements of the practical door latch.
-* Real-world functions like ringing a buzzer on a certain number of unsuccesful attempts, password updation options have been provided.
+* Real-world functions like ringing a buzzer on a certain number of unsuccessful attempts, password updation options have been provided.
